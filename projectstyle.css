@@ -1,0 +1,18 @@
+h2{
+    color: red;
+    font-family: cursive;
+}
+
+h4{
+    color: blue;
+    font-style: italic;
+    font-family: monospace;
+}
+
+h3{
+    color: darkmagenta;
+    font-style: oblique;
+}
+
+ul{list-style-type: square}
+
